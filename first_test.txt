@@ -1,5 +1,8 @@
-ID
-Summary
-Preconditions
-Steps
-Expected result
+ID SDK-99
+Summary  проверить кликабельность всех разделов сайта
+Preconditions Windows 11
+Steps:
+1) Кликнуть раздел " Развлечение "
+2) Кликнуть раздел " Еда "
+3) Кликнуть раздел " Главная "
+Expected result: Разделы должны быть кликабельны
